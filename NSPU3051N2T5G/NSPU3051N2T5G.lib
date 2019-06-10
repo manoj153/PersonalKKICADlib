@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model NSPU3051N2T5G
+#/1395024/145913/2.43/2/4/TVS Diode (Uni-directional)
+DEF NSPU3051N2T5G D 0 30 Y Y 1 F N
+F0 "D" 650 300 50 H V L CNN
+F1 "NSPU3051N2T5G" 650 200 50 H V L CNN
+F2 "ESD5581N2T5G" 650 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/NSPU3051N2T5G.pdf" 650 0 50 H I L CNN
+F4 "ESD Suppressors / TVS Diodes UNI-DIRECTIONAL SURGE PRO" 650 -100 50 H I L CNN "Description"
+F5 "" 650 -200 50 H I L CNN "Height"
+F6 "863-NSPU3051N2T5G" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=863-NSPU3051N2T5G" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "ON Semiconductor" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "NSPU3051N2T5G" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X K 1 0 0 200 R 50 50 0 0 B
+X A 2 800 0 200 L 50 50 0 0 B
+P 5 0 1 6 200 100 600 100 600 -100 200 -100 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

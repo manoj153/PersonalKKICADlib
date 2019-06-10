@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 2016L050MR
+#/298500/145913/2.43/2/3/Fuse
+DEF 2016L050MR F 0 30 Y Y 1 F N
+F0 "F" 650 300 50 H V L CNN
+F1 "2016L050MR" 650 200 50 H V L CNN
+F2 "FUSC5141X200N" 650 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/2016L050MR.pdf" 650 0 50 H I L CNN
+F4 "PTC 60V POLYFUSE SURF MOUNT 2016 .550A Littelfuse 0.55A Resettable Surface Mount Fuse, 60 V dc" 650 -100 50 H I L CNN "Description"
+F5 "2" 650 -200 50 H I L CNN "Height"
+F6 "576-2016L050MR" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=576-2016L050MR" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "LITTELFUSE" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "2016L050MR" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 B
+X 2 2 800 0 200 L 50 50 0 0 B
+P 5 0 1 6 200 100 600 100 600 -100 200 -100 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

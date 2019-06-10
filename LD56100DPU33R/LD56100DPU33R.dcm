@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LD56100DPU33R
+D LDO Voltage Regulators 1A very low dropout fast transient ultra-low noise linear regulator
+K
+F https://componentsearchengine.com/Datasheets/1/LD56100DPU33R.pdf
+$ENDCMP
+#
+#End Doc Library

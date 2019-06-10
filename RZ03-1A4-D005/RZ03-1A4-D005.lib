@@ -1,0 +1,48 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# RZ03-1A4-D005
+#
+DEF RZ03-1A4-D005 K 0 40 Y N 1 L N
+F0 "K" -400 350 50 H V L BNN
+F1 "RZ03-1A4-D005" -400 -400 50 H V L BNN
+F2 "RELAY_RZ03-1A4-D005" 0 0 50 H I L BNN
+F3 "None" 0 0 50 H I L BNN
+F4 "https://www.digikey.my/product-detail/en/te-connectivity-potter-brumfield-relays/RZ03-1A4-D005/PB1267-ND/2267918?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol" 0 0 50 H I L BNN
+F5 "Shrack; Relay Power PCB 16A SPST-NO 5VDC" 0 0 50 H I L BNN
+F6 "RZ03-1A4-D005" 0 0 50 H I L BNN
+F7 "TE Connectivity" 0 0 50 H I L BNN
+F8 "PB1267-ND" 0 0 50 H I L BNN
+F9 "https://www.te.com/usa-en/product-RZ03-1A4-D005.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 400 -300 400 -100 N
+P 2 0 0 10 400 -100 400 200 N
+P 2 0 0 10 400 200 400 300 N
+P 2 0 0 10 400 -300 -400 -300 N
+P 2 0 0 10 -400 -300 -400 -200 N
+P 2 0 0 10 -400 -200 -400 200 N
+P 2 0 0 10 -400 200 -400 300 N
+P 2 0 0 10 -400 300 400 300 N
+P 2 0 0 10 400 -100 100 -100 N
+P 2 0 0 10 100 -100 -100 0 N
+P 2 0 0 10 -400 -200 -98 -200 N
+P 2 0 0 10 200 200 400 200 N
+P 2 0 0 10 -200 200 -400 200 N
+A 150 200 50 1799 3600 0 0 10 N 200 200 100 200
+A 50 200 50 1799 3600 0 0 10 N 100 200 0 200
+A -50 200 50 1799 3600 0 0 10 N 0 200 -100 200
+A -150 200 50 1799 3600 0 0 10 N -100 200 -200 200
+P 3 0 0 0 -98 -98 -118 -138 -79 -138 F
+P 2 0 0 10 -98 -138 -98 -197 N
+X A1 A1 -600 200 200 R 40 40 0 0 P 
+X 11 11.1 600 -100 200 L 40 40 0 0 P 
+X 11 11.2 600 -100 200 L 40 40 0 0 P 
+X 14 14.1 -600 -200 200 R 40 40 0 0 P 
+X 14 14.2 -600 -200 200 R 40 40 0 0 P 
+X A2 A2 600 200 200 L 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

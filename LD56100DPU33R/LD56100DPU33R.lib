@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model LD56100DPU33R
+#/1509411/145913/2.43/9/4/Integrated Circuit
+DEF LD56100DPU33R IC 0 30 Y Y 1 F N
+F0 "IC" 1150 300 50 H V L CNN
+F1 "LD56100DPU33R" 1150 200 50 H V L CNN
+F2 "LD56100DPU33R" 1150 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/LD56100DPU33R.pdf" 1150 0 50 H I L CNN
+F4 "LDO Voltage Regulators 1A very low dropout fast transient ultra-low noise linear regulator" 1150 -100 50 H I L CNN "Description"
+F5 "1" 1150 -200 50 H I L CNN "Height"
+F6 "511-LD56100DPU33R" 1150 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=511-LD56100DPU33R" 1150 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "STMicroelectronics" 1150 -500 50 H I L CNN "Manufacturer_Name"
+F9 "LD56100DPU33R" 1150 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X VOUT_1 1 0 0 200 R 50 50 0 0 B
+X VOUT_2 2 0 -100 200 R 50 50 0 0 B
+X LCON 3 0 -200 200 R 50 50 0 0 B
+X FB 4 0 -300 200 R 50 50 0 0 B
+X GND_1 5 0 -400 200 R 50 50 0 0 B
+X EN 6 1300 0 200 L 50 50 0 0 B
+X VIN_1 7 1300 -100 200 L 50 50 0 0 B
+X VIN_2 8 1300 -200 200 L 50 50 0 0 B
+X GND_2 9 1300 -300 200 L 50 50 0 0 B
+P 5 0 1 6 200 100 1100 100 1100 -500 200 -500 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

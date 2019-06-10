@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2016L050MR
+D PTC 60V POLYFUSE SURF MOUNT 2016 .550A Littelfuse 0.55A Resettable Surface Mount Fuse, 60 V dc
+K
+F https://componentsearchengine.com/Datasheets/1/2016L050MR.pdf
+$ENDCMP
+#
+#End Doc Library
