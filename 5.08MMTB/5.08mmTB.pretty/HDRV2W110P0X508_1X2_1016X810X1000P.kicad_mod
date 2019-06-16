@@ -1,4 +1,4 @@
-(module HDRV2W110P0X508_1X2_1016X810X1000P (layer F.Cu) (tedit 5CF68838)
+(module HDRV2W110P0X508_1X2_1016X810X1000P (layer F.Cu) (tedit 5D02F121)
   (descr 1729128)
   (tags Connector)
   (fp_text reference J** (at -0.8 -4.8) (layer F.SilkS)
@@ -24,7 +24,7 @@
   (fp_line (start 7.62 -4.05) (end 0 -4.05) (layer F.SilkS) (width 0.2))
   (pad 1 thru_hole circle (at 0 0) (size 1.95 1.95) (drill 1.3) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 5.08 0) (size 1.95 1.95) (drill 1.3) (layers *.Cu *.Mask))
-  (model /home/radev1/Documents/KICAD_LIBRARY/5.08MMTB/1729128.stp
+  (model /home/manoj/Documents/PersonalKKICADlib/5.08MMTB/1729128.stp
     (offset (xyz -3.1 -3.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))
