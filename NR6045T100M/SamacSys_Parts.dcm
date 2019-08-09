@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP NR6045T100M
+D TAIYO YUDEN - NR6045T100M - INDUCTOR, SHIELDED, 10UH, 3A, SMD, FULL REEL
+K
+F https://componentsearchengine.com/Datasheets/1/NR6045T100M.pdf
+$ENDCMP
+#
+#End Doc Library
