@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLV3691IDCKR
+D Lowest Power, 0.9V to 6.5V, Small Size Comparator
+F http://www.ti.com/lit/gpn/tlv3691
+$ENDCMP
+#
+#End Doc Library

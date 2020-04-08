@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ25606RGER
+D Stand Alone Single Cell 3-A Fast Charger with High Input Voltage and Power Path
+K
+F http://www.ti.com/lit/gpn/bq25606
+$ENDCMP
+#
+#End Doc Library

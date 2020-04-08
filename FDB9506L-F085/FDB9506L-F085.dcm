@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FDB9506L-F085
+D MOSFET PMOS D2PAK 40V 3.6 MOHM
+F https://www.onsemi.com/pub/Collateral/FDB9503L_F085-D.PDF
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM4041EIM3X-1.2_NOPB
+D Precision Micropower Shunt Voltage Reference
+F http://www.ti.com/lit/gpn/lm4041-n
+$ENDCMP
+#
+#End Doc Library
