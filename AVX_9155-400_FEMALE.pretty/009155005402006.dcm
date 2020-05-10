@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 009155005402006
+D 5 Way Battery
+K
+F https://www.mouser.com/datasheet/2/40/AVX-9155-400-1534858.pdf
+$ENDCMP
+#
+#End Doc Library

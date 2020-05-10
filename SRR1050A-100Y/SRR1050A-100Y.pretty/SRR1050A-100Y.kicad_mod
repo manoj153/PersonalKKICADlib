@@ -1,4 +1,4 @@
-(module SRR1050A-100Y (layer F.Cu) (tedit 5E8D4FA7)
+(module SRR1050A-100Y (layer F.Cu) (tedit 5E99C2E2)
   (fp_text reference REF** (at 0 0) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -14,4 +14,9 @@
   (fp_line (start 5.08 5.08) (end 5.08 0) (layer F.SilkS) (width 0.12))
   (pad 1 smd rect (at -4.5 0 90) (size 3.2 1.8) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 4.5 0 90) (size 3.2 1.8) (layers F.Cu F.Paste F.Mask))
+  (model "C:/Users/Manojkumar/Google Drive/KICAD_LIBRARY/SRR1050A-100Y/SRR1050A-100Y.pretty/SRR1050A-100Y.stp"
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
+  )
 )
