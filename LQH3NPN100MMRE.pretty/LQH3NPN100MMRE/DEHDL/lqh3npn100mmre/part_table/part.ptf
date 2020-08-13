@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LQH3NPN100MMRE'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Murata Electronics", "LQH3NPN100MMRE" (!) = "", "LQH3NPN100MMRE", "Other", "LQH3NPN100MMRE", "https://www.arrow.com/en/products/lqh3npn100mmre/murata-manufacturing", "81-LQH3NPN100MMRE", "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/LQH3NPN100MMRE?qs=Gufeu08L%2Fl3RpAYf1UB5nw%3D%3D", "Fixed Inductors", "https://psearch.en.murata.com/inductor/product/LQH3NPN100MMR_.pdf", "1.5 mm"
+END_PART
+
+END.

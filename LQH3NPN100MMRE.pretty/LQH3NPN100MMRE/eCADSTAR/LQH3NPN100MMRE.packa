@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "LQH3NPN100MMRE"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-12-30-16:13:34)
+    (mountForm default
+        (footprintRef "LQH3NPN100MMRE")
+        (spec "System")
+    )
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LQH3NPN100MMRE
+D Fixed Inductors
+K
+F https://psearch.en.murata.com/inductor/product/LQH3NPN100MMR_.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,84 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "S2B-ZR_LF__SN_"
+   (description "JST ZH Series, 1.5mm Pitch 2 Way 1 Row Side Entry PCB Header, Solder Termination, 1A")
+   (family "CON")
+   (package "S2B-ZR")
+   (attribute "Datasheet Link" "http://docs-emea.rs-online.com/webdocs/1147/0900766b81147f94.pdf")
+   (attribute "Manufacturer_Name" "JST (JAPAN SOLDERLESS TERMINALS)")
+   (attribute "Manufacturer_Part_Number" "S2B-ZR(LF)(SN)")
+   (attribute "Arrow Part Number" "S2B-ZR(LF)(SN)")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/s2b-zr-lf-sn/jst-manufacturing")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (gate
+    (symbol "S2B-ZR_LF__SN_")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "S2B-ZR_LF__SN_"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "S2B-ZR"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.5 -4.6)
+      (pt 3 -4.6)
+      (pt 3 1.4)
+      (pt -1.5 1.4)
+      (pt -1.5 -4.6))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.5 1.4)
+      (pt 3 1.4)
+      (pt 3 -4.6)
+      (pt -1.5 -4.6)
+      (pt -1.5 1.4))))
+   (leg 1 (pt 0 0) (padstack 0))
+   (leg 2 (pt 1.5 0) (padstack 0))
+   (padstack 0
+    (hole 0.7)
+    (plated true)
+    (pad (layer TCOP) (round 1.1))
+    (pad (layer INNER) (round 1.1))
+    (pad (layer BCOP) (round 1.1))
+   )
+  )
+ )
+)

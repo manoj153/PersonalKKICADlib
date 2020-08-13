@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "512963494"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "512963494")
+        (spec "default")
+    )
+)

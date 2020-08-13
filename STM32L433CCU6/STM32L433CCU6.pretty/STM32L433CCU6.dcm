@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32L433CCU6
+D STMICROELECTRONICS - STM32L433CCU6 - MCU, ARM CORTEX-M4, 80MHZ, QFN-48
+K
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/f7/a0/fc/27/24/4e/4f/3f/DM00257192.pdf/files/DM00257192.pdf/jcr:content/translations/en.DM00257192.pdf
+$ENDCMP
+#
+#End Doc Library

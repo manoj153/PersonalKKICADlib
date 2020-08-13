@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MT48LC4M32B2P-6A_IT_L_TR
+D DRAM SDRAM 128M 4MX32 TSOP
+K
+F http://www.micron.com/~/media/Documents/Products/Data%20Sheet/DRAM/128mb_x32_sdram.pdf
+$ENDCMP
+#
+#End Doc Library

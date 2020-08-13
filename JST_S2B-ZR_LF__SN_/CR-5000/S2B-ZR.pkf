@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "S2B-ZR"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "S2B-ZR")
+        (spec "default")
+    )
+)

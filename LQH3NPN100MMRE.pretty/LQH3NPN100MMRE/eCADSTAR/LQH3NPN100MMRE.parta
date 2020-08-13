@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_951230"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-12-30-16:13:34)
+    (utime 2019-01-01-01:30:10)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "LQH3NPN100MMRE")
+)
+
+
+(pinAssign "ECS_951230"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-12-30-16:13:34)
+    (utime 2019-01-01-01:30:10)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_951230")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "LQH3NPN100MMRE")
+)
+
+
+(part "LQH3NPN100MMRE"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-12-30-16:13:34)
+    (utime 2019-01-01-01:30:10)
+    (packageRef "LQH3NPN100MMRE")
+    (pinAssignRef "ECS_951230")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "L")
+    (property "description" "Fixed Inductors")
+    (property "Manufacturer_Name" "Murata Electronics")
+    (property "Manufacturer_Part_Number" "LQH3NPN100MMRE")
+    (property "Arrow_Part_Number" "LQH3NPN100MMRE")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/lqh3npn100mmre/murata-manufacturing")
+    (property "Mouser_Part_Number" "81-LQH3NPN100MMRE")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/LQH3NPN100MMRE?qs=Gufeu08L%2Fl3RpAYf1UB5nw%3D%3D")
+    (property "Datasheet_Link" "https://psearch.en.murata.com/inductor/product/LQH3NPN100MMR_.pdf")
+    (property "compAreaTopHeight" 1.5)
+)
+
+

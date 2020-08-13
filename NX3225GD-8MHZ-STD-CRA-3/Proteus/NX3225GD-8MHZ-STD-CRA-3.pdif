@@ -1,0 +1,86 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "NX3225GD-8MHZ-STD-CRA-3"
+   (description "A small surface-mount type crystal unit, ideal for an engine control CPU clock; delivering the high reliability that is particularly demanded by automotive")
+   (family "OSC")
+   (package "RESC3226X100N")
+   (attribute "Datasheet Link" "http://www.ndk.com/images/products/catalog/c_NX3225GD-STD-CRA-3_e.pdf")
+   (attribute "Geometry.Height" "1mm")
+   (attribute "Manufacturer_Name" "NDK")
+   (attribute "Manufacturer_Part_Number" "NX3225GD-8MHZ-STD-CRA-3")
+   (attribute "Arrow Part Number" "NX3225GD-8MHZ-STD-CRA-3")
+   (attribute "Arrow Price/Stock" "")
+   (attribute "Mouser Part Number" "344-NX3225GD8MCRA3")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/NDK/NX3225GD-8MHZ-STD-CRA-3?qs=55YtniHzbhDA0fw3anYH2g%3D%3D")
+   (gate
+    (symbol "NX3225GD-8MHZ-STD-CRA-3")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "NX3225GD-8MHZ-STD-CRA-3"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "RESC3226X100N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -2.275 1.6)
+      (pt 2.275 1.6)
+      (pt 2.275 -1.6)
+      (pt -2.275 -1.6)
+      (pt -2.275 1.6))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.625 1.275)
+      (pt 1.625 1.275)
+      (pt 1.625 -1.275)
+      (pt -1.625 -1.275)
+      (pt -1.625 1.275))))
+   (leg 1 (pt -1.15 0) (padstack 0))
+   (leg 2 (pt 1.15 0) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.75 2.65 0 0 90))
+   )
+   (model "NX3225GD-8MHZ-STD-CRA-3.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

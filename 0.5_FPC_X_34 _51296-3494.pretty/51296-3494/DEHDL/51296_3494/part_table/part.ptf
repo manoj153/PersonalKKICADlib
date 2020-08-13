@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '51296_3494'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Molex", "51296-3494" (!) = "", "512963494", "Other", "51296-3494", "", "538-51296-3494", "https://www.mouser.co.uk/ProductDetail/Molex/51296-3494?qs=uYjzet2PAM5r5hG5QHZpIA%3D%3D", "FFC & FPC Connectors 0.5 FPC ZIF 34Ckt Em ZIF 34Ckt EmbsTp Pkg", "https://componentsearchengine.com/Datasheets/1/51296-3494.pdf", "1.5 mm"
+END_PART
+
+END.

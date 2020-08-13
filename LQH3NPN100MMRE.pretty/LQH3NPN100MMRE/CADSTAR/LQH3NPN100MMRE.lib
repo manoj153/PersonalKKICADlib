@@ -1,0 +1,17 @@
+.LQH3NPN100MMRE :1 ;Fixed Inductors
+LQH3NPN100MMRE
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN LQH3NPN100MMRE
+~!Manufacturer_Name (Murata Electronics)
+~!Manufacturer_Part_Number (LQH3NPN100MMRE)
+~!Arrow Part Number (LQH3NPN100MMRE)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/lqh3npn100mmre/murata-manufacturing)
+~!Mouser Part Number (81-LQH3NPN100MMRE)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Murata-Electronics/LQH3NPN100MMRE?qs=Gufeu08L%2Fl3RpAYf1UB5nw%3D%3D)
+~!Link Datasheet (https://psearch.en.murata.com/inductor/product/LQH3NPN100MMR_.pdf)
+~!Height (1.5mm)
+LQH3NPN100MMRE
+1.1!U 2.1!U 

@@ -1,0 +1,96 @@
+
+(EDIF
+  (rename &NX3225GD_8MHZ_STD_CRA_3 "NX3225GD_8MHZ_STD_CRA_3")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2020 08 07 12 09 33)
+      (dataOrigin "700980/145913/2.47/2/4/Crystal or Oscillator")
+      (program "SamacSys ECAD Model NX3225GD_8MHZ_STD_CRA_3"
+        (version "1.1"))))
+  (library
+  (rename &NX3225GD_8MHZ_STD_CRA_3 "NX3225GD_8MHZ_STD_CRA_3")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition (scale 1 (e 254 -6) (unit DISTANCE)))
+      (userData GRIDRESOLUTION (integer 50 50))
+      (figureGroup DEFAULT (pathWidth 10) (textHeight 100))
+      (figureGroup PROPERTY (pathWidth 10) (textHeight 90))
+      (figureGroup PINNUMBER (pathWidth 10) (textHeight 90))
+      (figureGroup PINNAME (pathWidth 10) (textHeight 90))
+      (figureGroup COMMENT (pathWidth 10) (textHeight 90))
+      (figureGroup PIN (pathWidth 10) (textHeight 90))
+      (figureGroup GRAPHIC (pathWidth 10) (textHeight 100))
+    )
+    (cell
+      (rename &NX3225GD_8MHZ_STD_CRA_3 "NX3225GD_8MHZ_STD_CRA_3")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "Y")
+          (property (rename PACKAGENAME "PackageName") (string "NX3225GD_8MHZ_STD_CRA_3"))
+          (property (rename ISHETEROGENEOUS "IsHeterogeneous") (string "False"))
+          (property (rename DEVICESINVIEW "DevicesInView") (string "1"))
+          (property (rename DEVICESINPACKAGE "DevicesInPackage") (string "1"))
+          (property (rename DEVICEDESIGNATOR "DeviceDesignator") (string "A"))
+          (property (rename DEVICENUMBERING "DeviceNumbering") (string "Alpha"))
+          (property (rename PCB_32_FOOTPRINT "PCB Footprint") (string "RESC3226X100N"))
+          (property (rename &Manufacturer_Name "Manufacturer_Name") (string "NDK"))
+          (property (rename &Manufacturer_Part_Number "Manufacturer_Part_Number") (string "NX3225GD-8MHZ-STD-CRA-3"))
+          (property (rename &Arrow_Part_Number "Arrow Part Number") (string "NX3225GD-8MHZ-STD-CRA-3"))
+          (property (rename &Arrow_Price_Stock "Arrow Price/Stock") (string ""))
+          (property (rename &Mouser_Part_Number "Mouser Part Number") (string "344-NX3225GD8MCRA3"))
+          (property (rename &Mouser_Price_Stock "Mouser Price/Stock") (string "https://www.mouser.co.uk/ProductDetail/NDK/NX3225GD-8MHZ-STD-CRA-3?qs=55YtniHzbhDA0fw3anYH2g%3D%3D"))
+          (property (rename &Description "Description") (string "A small surface-mount type crystal unit, ideal for an engine control CPU clock; delivering the high reliability that is particularly demanded by automotive"))
+          (property (rename &Datasheet_Link "Datasheet Link") (string "http://www.ndk.com/images/products/catalog/c_NX3225GD-STD-CRA-3_e.pdf"))
+          (property (rename &Height "Height") (string "1 mm"))
+          (property (rename &_60__32_VALUE_32__62_ "Value") (string "NX3225GD_8MHZ_STD_CRA_3"))
+          (property (rename VALUE "Value") (string "Value"))
+          (port
+            (rename &1 "1")
+            (designator "1")
+            (property (rename ORDER "Order") (string "0") (owner "OrCAD"))
+          )
+          (port
+            (rename &2 "2")
+            (designator "2")
+            (property (rename ORDER "Order") (string "1") (owner "OrCAD"))
+          )
+          (symbol
+            (portImplementation
+              (name &1 (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt -200 -100) (pt 0 -100))))
+              (connectLocation (figure GRAPHIC (dot (pt -200 -100))))
+            )
+            (portImplementation
+              (name &2 (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt -200 -200) (pt 0 -200))))
+              (connectLocation (figure GRAPHIC (dot (pt -200 -200))))
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 0 0)
+                  (pt 400 0)
+                  (pt 400 -300)
+                  (pt 0 -300)
+                  (pt 0 0)
+                )
+              )
+            )
+            (keywordDisplay DESIGNATOR (display PROPERTY (justify LOWERLEFT) (orientation R0) (origin (pt 450 130))))
+            (propertyDisplay &_60__32_VALUE_32__62_ (display PROPERTY (justify LOWERLEFT) (orientation R0) (origin (pt 450 30))))
+          )
+        )
+      )
+    )
+  )
+)

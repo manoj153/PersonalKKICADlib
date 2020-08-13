@@ -1,0 +1,9 @@
+Manufacturer=NDK
+PartNumber=NX3225GD-8MHZ-STD-CRA-3
+PartCategory=Crystal or Oscillator
+PackageCategory=Resistor Chip
+PinCount=2
+Version=1.1
+Released=2017-04-08 04:50:25
+Downloaded=2020-08-07 12:09:33
+3D=Y

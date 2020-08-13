@@ -1,0 +1,9 @@
+Manufacturer=Molex
+PartNumber=51296-3494
+PartCategory=Connector
+PackageCategory=Other
+PinCount=36
+Version=1.3
+Released=2019-09-18 15:48:12
+Downloaded=2020-07-10 19:56:46
+3D=Y

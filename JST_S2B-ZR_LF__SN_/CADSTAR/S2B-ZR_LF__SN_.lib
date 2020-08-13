@@ -1,0 +1,17 @@
+.S2B-ZR_LF__SN_ :1 ;JST ZH Series, 1.5mm Pitch 2 Way 1 Row Side Entry PCB Header, Solder Termination, 1A
+S2B-ZR
+*STM J
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN S2B-ZR_LF__SN_
+~!Manufacturer_Name (JST (JAPAN SOLDERLESS TERMINALS))
+~!Manufacturer_Part_Number (S2B-ZR(LF)(SN))
+~!Arrow Part Number (S2B-ZR(LF)(SN))
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/s2b-zr-lf-sn/jst-manufacturing)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Link Datasheet (http://docs-emea.rs-online.com/webdocs/1147/0900766b81147f94.pdf)
+~!Height (-)
+S2B-ZR_LF__SN_
+1.1!U 2.1!U 
