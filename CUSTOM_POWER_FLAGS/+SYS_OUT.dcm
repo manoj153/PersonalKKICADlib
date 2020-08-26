@@ -130,6 +130,11 @@ D Power symbol creates a global label with name "+3V8"
 K power-flag
 $ENDCMP
 #
+$CMP +4.8V
+D Power symbol creates a global label with name "+5V"
+K power-flag
+$ENDCMP
+#
 $CMP +48V
 D Power symbol creates a global label with name "+48V"
 K power-flag
@@ -152,11 +157,6 @@ $ENDCMP
 #
 $CMP +5P
 D Power symbol creates a global label with name "+5P"
-K power-flag
-$ENDCMP
-#
-$CMP +5V
-D Power symbol creates a global label with name "+5V"
 K power-flag
 $ENDCMP
 #
@@ -320,6 +320,11 @@ D Power symbol creates a global label with name "AC"
 K power-flag
 $ENDCMP
 #
+$CMP BQ_GNDA
+D Power symbol creates a global label with name "GNDA" , analog ground
+K power-flag
+$ENDCMP
+#
 $CMP Earth
 D Power symbol creates a global label with name "Earth"
 K power-flag ground gnd
@@ -355,11 +360,6 @@ $ENDCMP
 #
 $CMP GND3
 D Power symbol creates a global label with name "GND3" , ground
-K power-flag
-$ENDCMP
-#
-$CMP GNDA
-D Power symbol creates a global label with name "GNDA" , analog ground
 K power-flag
 $ENDCMP
 #
