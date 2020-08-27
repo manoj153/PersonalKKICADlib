@@ -419,6 +419,11 @@ K power-flag
 F ~
 $ENDCMP
 #
+$CMP TPS_GNDA
+D Power symbol creates a global label with name "GNDA" , analog ground
+K power-flag
+$ENDCMP
+#
 $CMP VAA
 D Power symbol creates a global label with name "VAA"
 K power-flag
