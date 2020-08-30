@@ -2,7 +2,6 @@ EESchema-DOCLIB  Version 2.0
 #
 $CMP TPS61088RHLT
 D Texas Instruments TPS61088RHLT, 3, Boost Converter, Synchronous Boost Converter 10A 4.5  12.6 V, 2.2 MHz 20-Pin
-K
 F http://www.ti.com/lit/ds/symlink/tps61088.pdf
 $ENDCMP
 #
