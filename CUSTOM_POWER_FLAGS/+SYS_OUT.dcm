@@ -115,6 +115,16 @@ D Power symbol creates a global label with name "+3.3VP"
 K power-flag
 $ENDCMP
 #
+$CMP +3.3V_copy
+D Power symbol creates a global label with name "+3.3V"
+K power-flag
+$ENDCMP
+#
+$CMP +3.3V_copy_copy
+D Power symbol creates a global label with name "+3.3V"
+K power-flag
+$ENDCMP
+#
 $CMP +36V
 D Power symbol creates a global label with name "+36V"
 K power-flag
@@ -122,6 +132,16 @@ $ENDCMP
 #
 $CMP +3V0
 D Power symbol creates a global label with name "+3V0"
+K power-flag
+$ENDCMP
+#
+$CMP +3V3_ESP32
+D Power symbol creates a global label with name "+3V3"
+K power-flag
+$ENDCMP
+#
+$CMP +3V3_STM32
+D Power symbol creates a global label with name "+3V3"
 K power-flag
 $ENDCMP
 #
