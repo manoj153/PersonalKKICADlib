@@ -210,4 +210,5 @@
   (lib (name CUSTOM_POWER_FLAG)(type Legacy)(uri ${WIN_LIB_DIR}/CUSTOM_POWER_FLAGS/+SYS_OUT.lib)(options "")(descr ""))
   (lib (name TPS61088RHLT)(type Legacy)(uri ${WIN_LIB_DIR}/TPS61088RHLT.pretty/TPS61088RHLT.lib)(options "")(descr ""))
   (lib (name bq25895rtw)(type Legacy)(uri ${WIN_LIB_DIR}/BQ25895RTW/bq25895rtw.lib)(options "")(descr ""))
+  (lib (name TSOP4856)(type Legacy)(uri ${WIN_LIB_DIR}/TSOP4856/TSOP4856.lib)(options "")(descr ""))
 )
