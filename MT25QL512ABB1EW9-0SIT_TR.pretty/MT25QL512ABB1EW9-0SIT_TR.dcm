@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MT25QL512ABB1EW9-0SIT_TR
+D NOR Flash SPI FLASH NOR SLC 128MX4 WPDFN
+K
+F https://www.micron.com/~/media/documents/products/data-sheet/nor-flash/serial-nor/mt25q/die-rev-b/mt25q_qlkt_l_512_abb_0.pdf
+$ENDCMP
+#
+#End Doc Library

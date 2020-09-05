@@ -212,4 +212,5 @@
   (lib (name bq25895rtw)(type Legacy)(uri ${WIN_LIB_DIR}/BQ25895RTW/bq25895rtw.lib)(options "")(descr ""))
   (lib (name TSOP4856)(type Legacy)(uri ${WIN_LIB_DIR}/TSOP4856/TSOP4856.lib)(options "")(descr ""))
   (lib (name stm32h743iitx)(type Legacy)(uri ${WIN_LIB_DIR}/STM32_MCU/stm32h743iitx.lib)(options "")(descr ""))
+  (lib (name MT25QL512ABB1EW9-0SIT_TR)(type Legacy)(uri ${WIN_LIB_DIR}/MT25QL512ABB1EW9-0SIT_TR.pretty/MT25QL512ABB1EW9-0SIT_TR.lib)(options "")(descr ""))
 )
