@@ -156,4 +156,5 @@
   (lib (name NX3225GD-8MHZ-STD-CRA-3)(type KiCad)(uri ${WIN_LIB_DIR}/NX3225GD-8MHZ-STD-CRA-3/NX3225GD.pretty)(options "")(descr ""))
   (lib (name "S2B-ZR(LF)(SN)")(type KiCad)(uri "${WIN_LIB_DIR}/JST_S2B-ZR_LF__SN_/S2B-ZR(LF)(SN).pretty")(options "")(descr ""))
   (lib (name S8B-PHDSS)(type KiCad)(uri ${WIN_LIB_DIR}/S8B-PHDSS/S8B-PHDSS.pretty)(options "")(descr ""))
+  (lib (name JST_VH_S2P-VH)(type KiCad)(uri ${WIN_LIB_DIR}/JST_OWN/VH_S2P-VH_1X02.pretty)(options "")(descr ""))
 )
