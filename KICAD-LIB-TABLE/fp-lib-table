@@ -159,4 +159,5 @@
   (lib (name JST_VH_S2P-VH)(type KiCad)(uri ${WIN_LIB_DIR}/JST_OWN/VH_S2P-VH_1X02.pretty)(options "")(descr ""))
   (lib (name MAL215097012E3)(type KiCad)(uri ${WIN_LIB_DIR}/MAL215097012E3.pretty)(options "")(descr ""))
   (lib (name TPS61088RHLT)(type KiCad)(uri ${WIN_LIB_DIR}/TPS61088RHLT.pretty)(options "")(descr ""))
+  (lib (name MT25QL512)(type KiCad)(uri ${WIN_LIB_DIR}/MT25QL512ABB1EW9-0SIT_TR.pretty)(options "")(descr ""))
 )
