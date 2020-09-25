@@ -162,4 +162,5 @@
   (lib (name MT25QL512)(type KiCad)(uri ${WIN_LIB_DIR}/MT25QL512ABB1EW9-0SIT_TR.pretty)(options "")(descr ""))
   (lib (name SRP1770C-2R2M)(type KiCad)(uri ${WIN_LIB_DIR}/SRP1770C-2R2M.pretty)(options "")(descr ""))
   (lib (name JST_CON_B10B-PHDSS)(type KiCad)(uri ${WIN_LIB_DIR}/B10B-PHDSS.pretty)(options "")(descr ""))
+  (lib (name LED_CONN_CUSTOM)(type KiCad)(uri /home/manoj-ubu/Documents/PersonalKKICADlib/LED_CONN_CUSTOM.pretty)(options "")(descr ""))
 )
