@@ -163,4 +163,5 @@
   (lib (name SRP1770C-2R2M)(type KiCad)(uri ${WIN_LIB_DIR}/SRP1770C-2R2M.pretty)(options "")(descr ""))
   (lib (name JST_CON_B10B-PHDSS)(type KiCad)(uri ${WIN_LIB_DIR}/B10B-PHDSS.pretty)(options "")(descr ""))
   (lib (name LED_CONN_CUSTOM)(type KiCad)(uri ${WIN_LIB_DIR}/LED_CONN_CUSTOM.pretty)(options "")(descr ""))
+  (lib (name Panelization)(type KiCad)(uri ${WIN_LIB_DIR}/Panelization.pretty)(options "")(descr ""))
 )
